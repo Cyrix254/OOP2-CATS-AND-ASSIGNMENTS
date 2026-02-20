@@ -1,5 +1,5 @@
 
-//REAGAN TZISAGA CT100/G/22492/24.
+// REAGAN TZISAGA CT100/G/22492/24.
 
 import java.util.Scanner; 
 
